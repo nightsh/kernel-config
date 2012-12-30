@@ -1,5 +1,5 @@
-kernel-config
-=============
+kernel-config (3.8.0-rc1)
+=========================
 
 Kernel configuration used for my Lenovo ThinkPad Edge 530
 
@@ -16,7 +16,8 @@ Liquorix kernels, which did not freeze, but instead were sucking my battery dry.
 
 
 After checking a (big) diff between the stock kernel and the liquorix, I pulled 
-together a config which I used with the latest available sources from kernel.org. 
+together a config which I used with the latest available sources (3.8.0-rc1) from 
+kernel.org. 
 The big difference between this and the Liquorix Linux is in the PREEMPT configuration, 
 where i preferred the middle value and not the low-latency, power-hungry model 
 they preferred. And yay!, the system work fine and battery life is now 5 hrs +
