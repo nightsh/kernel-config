@@ -1,6 +1,16 @@
 kernel-config (3.8.0-rc1)
 =========================
 
+## NOTE
+
+This is only kept here for reference. If, however, you'd like to improve or
+update it, we can make it together. Just let me know :-)
+
+
+
+### Description
+
+
 Kernel configuration used for my Lenovo ThinkPad Edge 530
 
 For the impatient, links to my built packages for amd64 (just ask if you 
